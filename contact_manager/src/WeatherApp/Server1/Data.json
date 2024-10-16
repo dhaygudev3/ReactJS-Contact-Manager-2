@@ -1,0 +1,98 @@
+{
+    "Data": [{
+        "photo":"https://tse4.mm.bing.net/th?id=OIP.b0K7U1bmryoAZktYaWVEZgHaEo&pid=Api&P=0&h=180"
+        ,"city": "Mumbai",
+        "temperature": "30°C",
+        "humidity": "75%",
+        "rainPossibility": "40%"
+      },
+      {
+          "photo":"https://tse1.mm.bing.net/th?id=OIP.WJgb26eZPs2r-J3oJgTuywHaEK&pid=Api&P=0&h=180",
+        "city": "Delhi",
+        "temperature": "35°C",
+        "humidity": "60%",
+        "rainPossibility": "20%"
+      },
+      {
+          "photo":"https://tse2.mm.bing.net/th?id=OIP.8-aEoZamjuVdABtPIDtMIwHaEK&pid=Api&P=0&h=180",
+        "city": "Bangalore",
+        "temperature": "25°C",
+        "humidity": "70%",
+        "rainPossibility": "50%"
+      },
+      {
+          "photo":"https://tse2.explicit.bing.net/th?id=OIP.NiofmOoGHUG6M4Rfn3cQKwHaEK&pid=Api&P=0&h=180",
+        "city": "Kolkata",
+        "temperature": "32°C",
+        "humidity": "80%",
+        "rainPossibility": "30%"
+      },
+      {
+        "photo":"https://tse3.mm.bing.net/th?id=OIP.YH6Uw1tzl5yzst2jwQGQSAHaEK&pid=Api&P=0&h=180",
+        "city": "Chennai",
+        "temperature": "33°C",
+        "humidity": "85%",
+        "rainPossibility": "60%"
+      }
+    ,
+    
+      {
+        "photo": "https://tse3.mm.bing.net/th?id=OIP.YH6Uw1tzl5yzst2jwQGQSAHaEK&pid=Api&P=0&h=180",
+        "city": "Hyderabad",
+        "temperature": "28°C",
+        "humidity": "65%",
+        "rainPossibility": "45%"
+      },
+      {
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.Ty4PR4OufR0C8ROR6bR-PAHaGr&pid=Api&P=0&h=180",
+        "city": "Pune",
+        "temperature": "26°C",
+        "humidity": "55%",
+        "rainPossibility": "35%"
+      },
+      {
+        "photo": "https://tse3.mm.bing.net/th?id=OIP.YH6Uw1tzl5yzst2jwQGQSAHaEK&pid=Api&P=0&h=180",
+        "city": "Ahmedabad",
+        "temperature": "34°C",
+        "humidity": "50%",
+        "rainPossibility": "25%"
+      },
+      {
+        "photo": "https://tse3.mm.bing.net/th?id=OIP.YH6Uw1tzl5yzst2jwQGQSAHaEK&pid=Api&P=0&h=180",
+        "city": "Jaipur",
+        "temperature": "33°C",
+        "humidity": "55%",
+        "rainPossibility": "20%"
+      },
+      {
+        "photo": "https://in.images.search.yahoo.com/images/view;_ylt=AwrKGE9MakhmFjogC8W9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2RmODIxZjJmM2RjNjc4YzQyYTE4NGM0MTc2Zjg3MGUwBGdwb3MDNzYEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dweather%2Bphoto%26type%3DE210IN885G91826%26fr%3Dmcafee%26h%3D284%26nost%3D1%26tt%3DNice%2BWeather%252C%2BWarm%2BTemperatures%2BThis%2BWeek%2B%25E2%2580%2593%2BCardinal%2BWeather%2BService%26w%3D474%26imgurl%3Dhttps%253A%252F%252Fcardinalwxservice.com%252Fwp-content%252Fuploads%252F2019%252F09%252FFall-1.jpg%26rurl%3Dhttps%253A%252F%252Fcardinalwxservice.com%252F2019%252F10%252F07%252Fnice-weather-warm-temperatures-this-week%252F%26turl%3Dhttps%253A%252F%252Ftse1.mm.bing.net%252Fth%253Fid%253DOIP._6UW1704oYjKYfVcf84iMgAAAA%2526pid%253DApi%26tw%3D474%26th%3D284%26sigr%3DKty5JvB6WXRo%26sigi%3D5gwyoeuSgUbx%26sigt%3DHLBTwm6BK1PM%26sigit%3DpzwNLg72Xakc%26tab%3Dorganic%26ri%3D76&w=2560&h=1600&imgurl=tonycraddockjr.com%2Fwp-content%2Fuploads%2F2015%2F01%2FSunny-Day.jpg&rurl=http%3A%2F%2Ftonycraddockjr.com%2Fweatherwednesday%2Fweather-and-progress%2F&size=681.9KB&p=weather+photo&oid=df821f2f3dc678c42a184c4176f870e0&fr2=&fr=mcafee&tt=Tony+Craddock%2C+Jr.+%7C+Weather+and+Progress&b=61&ni=160&no=76&ts=&tab=organic&sigr=IZpcXv0aXAy2&sigb=3ViURR5RasxA&sigi=9yXiuvQMvA8a&sigt=6R7MgbdYurSo&.crumb=Zz1XBA1o0uN&fr=mcafee&type=E210IN885G91826",
+        "city": "Lucknow",
+        "temperature": "31°C",
+        "humidity": "70%",
+        "rainPossibility": "40%"
+      },
+      {
+        "photo": "https://up.yimg.com/ib/th?id=OIP._6UW1704oYjKYfVcf84iMgAAAA&pid=Api&rs=1&c=1&qlt=95&w=155&h=93",
+        "city": "Chandigarh",
+        "temperature": "29°C",
+        "humidity": "60%",
+        "rainPossibility": "30%"
+      },
+      {
+        "photo":" https://up.yimg.com/ib/th?id=OIP.UVAyUy5phpeujFgTeWRo_AHaE7&pid=Api&rs=1&c=1&qlt=95&w=173&h=115",
+        "city": "Bhopal",
+        "temperature": "27°C",
+        "humidity": "65%",
+        "rainPossibility": "50%"
+      },
+      {
+        "photo": "https://up.yimg.com/ib/th?id=OIP.ohyPP8rhEZ21_3PyDdXs7QHaE8&pid=Api&rs=1&c=1&qlt=95&w=173&h=115",
+        "city": "Patna",
+        "temperature": "32°C",
+        "humidity": "75%",
+        "rainPossibility": "35%"
+      }
+    
+    
+    ]
+}
